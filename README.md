@@ -6,15 +6,15 @@ This monorepo contains all my projects from the 42 school curriculum, organized 
 
 ```
 common_core/
-├── ms-0/
-│   └── libft/
-├── ms-1/
-│   ├── ft_printf/
-│   └── get_next_line/
-└── ms-2/
-    ├── push_swap/
-    └── python_piscine/
-        └── module_00/
+    ├── ms-0/
+    │   └── libft/
+    ├── ms-1/
+    │   ├── ft_printf/
+    │   └── get_next_line/
+    └── ms-2/
+        ├── push_swap/
+        └── python_piscine/
+        └── a-maze-ing/
 ```
 
 ## Projects Overview
@@ -50,8 +50,8 @@ A sorting algorithm project using two stacks and a limited set of operations. Th
 #### python_piscine
 A collection of Python modules from the Python piscine at 42. This monorepo contains exercises covering Python basics, object-oriented programming, data manipulation, and more.
 
-##### module_00
-Introduction to Python programming, covering basic syntax, data types, control structures, and fundamental programming concepts.
+#### a-maze-ing
+A maze generation project with a vialsualizer using the 42 school's graphical librairy, the MiniLibX.
 
 ## Cloning the Repository
 
@@ -90,6 +90,7 @@ Each project is maintained as an independent repository and can be accessed sepa
 - [get_next_line](https://github.com/Gitmard/get_next_line)
 - [push_swap](https://github.com/Gitmard/ft_push_swap)
 - [python_piscine](https://github.com/Gitmard/python_piscine_00)
+- [a-maze-ing](https://github.com/Gitmard/a-maze-ing)
 
 ## License
 
