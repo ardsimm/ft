@@ -45,13 +45,17 @@ A sorting algorithm project using two stacks and a limited set of operations. Th
 
 **Operations**: sa, sb, ss, pa, pb, ra, rb, rr, rra, rrb, rrr.
 
-**Skills learned**: Algorithm optimization, sorting algorithms, complexity analysis.
+**Skills learned**: Algorithm optimization, sorting algorithms, complexity analysis and group project management.
 
 #### python_piscine
 A collection of Python modules from the Python piscine at 42. This monorepo contains exercises covering Python basics, object-oriented programming, data manipulation, and more.
 
+**Skills learned**: The Python programming language, advanced OOP principle including inheritence, abstract classes and duck-typing, polymorphism and various design patterns.
+
 #### a-maze-ing
 A maze generation project with a vialsualizer using the 42 school's graphical librairy, the MiniLibX.
+
+**Skills learned**: Maze generation algorithms, graphical programming, Python dependency management.
 
 ## Cloning the Repository
 
