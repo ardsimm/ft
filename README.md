@@ -93,7 +93,7 @@ Each project is maintained as an independent repository and can be accessed sepa
 - [ft_printf](https://github.com/ardsimm/ft_printf)
 - [get_next_line](https://github.com/ardsimm/get_next_line)
 - [push_swap](https://github.com/ardsimm/ft_push_swap)
-- [python_piscine](https://github.com/ardsimm/python_piscine_00)
+- [python_piscine](https://github.com/ardsimm/python_piscine_ft)
 - [a-maze-ing](https://github.com/ardsimm/a-maze-ing)
 
 ## License
