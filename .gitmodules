@@ -19,3 +19,6 @@
 [submodule "common_core/ms-3/codexion"]
 	path = common_core/ms-3/codexion
 	url = git@github.com:ardsimm/codexion.git
+[submodule "common_core/ms-3/call_me_maybe"]
+	path = common_core/ms-3/call_me_maybe
+	url = git@github.com:ardsimm/call_me_maybe.git
