@@ -57,6 +57,20 @@ A maze generation project with a vialsualizer using the 42 school's graphical li
 
 **Skills learned**: Maze generation algorithms, graphical programming, Python dependency management.
 
+### Milestone 3
+
+#### codexion
+
+A modern twist on the classic philosophers problem. The goal is to manage threads accessing shared resources secured by mutexes
+
+**Skills learned**: Parallel programming, UNIX threads & mutexes
+
+#### call_me_maybe **latest !**
+
+A function-calling tool powered by a very small LLM (Qwen3-0.6b) with constrained decoding to achieve 100% valid JSON outputs and excellent function picking and parameter extraction accuracy.
+
+**Skills learned**: LLM basics (logits, encoding & decoding), constrained decoding, even more Python dependency management, clean OOP design patterns (singleton, factory pattern).
+
 ## Cloning the Repository
 
 To clone this repository with all submodules:
@@ -95,6 +109,8 @@ Each project is maintained as an independent repository and can be accessed sepa
 - [push_swap](https://github.com/ardsimm/ft_push_swap)
 - [python_piscine](https://github.com/ardsimm/python_piscine_ft)
 - [a-maze-ing](https://github.com/ardsimm/a-maze-ing)
+- [codexion](https://github.com/ardsimm/codexion)
+- [ardsimm/call_me_maybe](https://github.com/ardsimm/call_me_maybe)
 
 ## License
 
