@@ -113,7 +113,7 @@ Each project is maintained as an independent repository and can be accessed sepa
 - [python_piscine](https://github.com/ardsimm/python_piscine_ft)
 - [a-maze-ing](https://github.com/ardsimm/a-maze-ing)
 - [codexion](https://github.com/ardsimm/codexion)
-- [ardsimm/call_me_maybe](https://github.com/ardsimm/call_me_maybe)
+- [call_me_maybe](https://github.com/ardsimm/call_me_maybe)
 
 ## License
 
