@@ -12,9 +12,12 @@ common_core/
     │   ├── ft_printf/
     │   └── get_next_line/
     └── ms-2/
-        ├── push_swap/
-        └── python_piscine/
-        └── a-maze-ing/
+    |   ├── push_swap/
+    |   └── python_piscine/
+    |   └── a-maze-ing/
+    └── ms-3/
+        ├── codexion/
+        └── call_me_maybe/
 ```
 
 ## Projects Overview
