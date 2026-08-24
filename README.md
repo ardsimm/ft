@@ -65,7 +65,7 @@ A modern twist on the classic philosophers problem. The goal is to manage thread
 
 **Skills learned**: Parallel programming, UNIX threads & mutexes
 
-#### call_me_maybe **latest !**
+#### call_me_maybe (*latest !*)
 
 A function-calling tool powered by a very small LLM (Qwen3-0.6b) with constrained decoding to achieve 100% valid JSON outputs and excellent function picking and parameter extraction accuracy.
 
