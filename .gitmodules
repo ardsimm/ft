@@ -22,3 +22,6 @@
 [submodule "common_core/ms-3/call_me_maybe"]
 	path = common_core/ms-3/call_me_maybe
 	url = git@github.com:ardsimm/call_me_maybe.git
+[submodule "common_core/ms-3/fly-in"]
+	path = common_core/ms-3/fly-in
+	url = git@github.com:ardsimm/fly-in.git
