@@ -1,4 +1,4 @@
-# 42 School Projects
+    # 42 School Projects
 
 This monorepo contains all my projects from the 42 school curriculum, organized by milestone.
 
@@ -68,11 +68,18 @@ A modern twist on the classic philosophers problem. The goal is to manage thread
 
 **Skills learned**: Parallel programming, UNIX threads & mutexes
 
-#### call_me_maybe (*latest !*)
+#### call_me_maybe
 
 A function-calling tool powered by a very small LLM (Qwen3-0.6b) with constrained decoding to achieve 100% valid JSON outputs and excellent function picking and parameter extraction accuracy.
 
 **Skills learned**: LLM basics (logits, encoding & decoding), constrained decoding, even more Python dependency management, clean OOP design patterns (singleton, factory pattern).
+
+#### Fly-in (*ongoing*)
+
+Efficient drone routing system navigating autonomous drones from a central base to a target location through a dynamic network.
+
+**Skills learned**: *ongoing*
+
 
 ## Cloning the Repository
 
@@ -114,6 +121,7 @@ Each project is maintained as an independent repository and can be accessed sepa
 - [a-maze-ing](https://github.com/ardsimm/a-maze-ing)
 - [codexion](https://github.com/ardsimm/codexion)
 - [call_me_maybe](https://github.com/ardsimm/call_me_maybe)
+- [Fly-in](https://github.com/ardsimm/fly-in)
 
 ## License
 
