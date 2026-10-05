@@ -25,3 +25,6 @@
 [submodule "common_core/ms-3/fly-in"]
 	path = common_core/ms-3/fly-in
 	url = git@github.com:ardsimm/fly-in.git
+[submodule "common_core/ms-4/netpractice"]
+	path = common_core/ms-4/netpractice
+	url = git@github.com:ardsimm/netpractice.git
