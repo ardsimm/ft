@@ -28,3 +28,6 @@
 [submodule "common_core/ms-4/netpractice"]
 	path = common_core/ms-4/netpractice
 	url = git@github.com:ardsimm/netpractice.git
+[submodule "common_core/ms-4/pac-man"]
+	path = common_core/ms-4/pac-man
+	url = git@github.com:ardsimm/pac-man.git
