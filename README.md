@@ -1,4 +1,4 @@
-    # 42 School Projects
+# 42 School Projects
 
 This monorepo contains all my projects from the 42 school curriculum, organized by milestone.
 
